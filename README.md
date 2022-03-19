@@ -134,10 +134,6 @@ Click on image to view fullscreen and zoom
 - I've personally found, learning by going through a good project codebase step by step while building your own project helps in ease of understanding and remembering
 
 
-## Author
-- Atul Yadav - [GitHub](https://github.com/atulmy) · [Twitter](https://twitter.com/atulmy)
-
-
 ## Contributors
 - Ebou Jobe - [GitHub](https://github.com/ebouJ)
 - Nenad Radovanovic - [GitHub](https://github.com/nrcloud) · [Twitter](https://twitter.com/publicshone)
